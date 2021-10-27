@@ -1,4 +1,4 @@
-# Exercise 1 - Exercise 1 Description
+# Exercise 1 - Getting a BTP Trial Account and Subscribing to MDG Cloud
 
 In this exercise, we will create...
 
