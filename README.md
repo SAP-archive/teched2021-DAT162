@@ -1,37 +1,27 @@
-# Session ID - Session Title
+# DAT162 - Hands-On Experience on SAP Master Data Governance, cloud edition
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2021 session called Session ID - Session Title.  
+This repository contains the material for the SAP TechEd 2021 session called DAT162 - Hands-On Experience on SAP Master Data Governance, cloud edition.  
 
 ## Overview
 
-This session introduces attendees to...
+In this session, you will learn in detail about the features of SAP MDG, cloud edition. You will get a hands-on understanding of capabilities like consolidation, central governance and data quality management for business partner master data. You will see how easy it is to set up and consume this Software-as-a-Service solution on the Business Technology Platform.​
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are...
+It is helpful to have a trial account for SAP BTP. However, it is part of the first exercise to create such an account.
 
 ## Exercises
 
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
+This workshop is separated in multiple exercises. You can perform each exercise independent of any other exercise. However, exercise 1 is an exception as it contains the basics, such as getting a trial account for SAP BTP and subscribing to the trial version of SAP Master Data Governance, cloud edition.
 
 - [Getting Started](exercises/ex0/)
-- [Exercise 1 - First Exercise Description](exercises/ex1/)
-    - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
-- [Exercise 2 - Second Exercise Description](exercises/ex2/)
-    - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
-
-  
-**OR** Link to the Tutorial Navigator for example...
-
-Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
-
-**IMPORTANT**
-
-Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
+- [Exercise 1 - Getting a BTP Trial Account and Subscribing to MDG Cloud](exercises/ex1/)
+- [Exercise 2 - Central Governance](exercises/ex2/)
+- [Exercise 3 - Mass Change](exercises/ex3/)
+- [Exercise 4 - Consolidation](exercises/ex4/)
+- [Exercise 5 - Data Quality Management](exercises/ex5/)
 
 ## How to obtain support
 
