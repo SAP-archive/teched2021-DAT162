@@ -1,6 +1,6 @@
 # Getting Started
 
-See this PDF for xxx
+See this [PDF](./DAT162-Presentation.pdf) for getting an overview.
 
 ## Summary
 
