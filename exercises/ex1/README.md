@@ -1,44 +1,17 @@
 # Exercise 1 - Getting a BTP Trial Account and Subscribing to MDG Cloud
 
-In this exercise, we will create...
+In this exercise, we will create your own trial account on SAP BTP and subscribe to SAP Master Data Governance, cloud edition.
 
-## Exercise 1.1 Sub Exercise 1 Description
+_Information:_ If you already have a trial account on BTP, you can use your existing trial account and skip the repsective steps in the exercise description.
 
-After completing these steps you will have created...
+_Information 2:_ Furthermore, if you already have an active trial subsciption to SAP Master Data Governance, cloud edition, you can skip this entire exercise and continue with [exercise 2](../ex2/README.md).
 
-1. Click here.
-<br>![](/exercises/ex1/images/01_01_0010.png)
+## Exercise Description
 
-2.	Insert this line of code.
-```abap
-response->set_text( |Hello World! | ). 
-```
+Please open the [SAP Master Data Governance, cloud edition Trial Getting Started Guide](./SAP Master Data Governance, cloud edition Trial Getting Started Guide.pdf) and perform all described activities, such as registering for the trial as described in the document. You do not need to read through the complete document. Once you can launch the apps displayed on your user's Fiori Launchpad like displayed below, you are ready to start with the next exercise.
 
-
-
-## Exercise 1.2 Sub Exercise 2 Description
-
-After completing these steps you will have...
-
-1.	Enter this code.
-```abap
-DATA(lt_params) = request->get_form_fields(  ).
-READ TABLE lt_params REFERENCE INTO DATA(lr_params) WITH KEY name = 'cmd'.
-  IF sy-subrc <> 0.
-    response->set_status( i_code = 400
-                     i_reason = 'Bad request').
-    RETURN.
-  ENDIF.
-
-```
-
-2.	Click here.
-<br>![](/exercises/ex1/images/01_02_0010.png)
-
+![MDG Cloud Trial Fiori Launchpad](./images/MDG-Trial-FLP.png)
 
 ## Summary
 
-You've now ...
-
-Continue to - [Exercise 2 - Exercise 2 Description](../ex2/README.md)
-
+You've now created a subscription for SAP Master Data Governance, trial version and can use the apps provided on your user's Fiori launchpad. You are ready to continue with [exercise 2 - Central Governance](../ex2/README.md)
