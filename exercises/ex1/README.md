@@ -8,7 +8,7 @@ _Information 2:_ Furthermore, if you already have an active trial subsciption to
 
 ## Exercise Description
 
-Please open the [SAP Master Data Governance, cloud edition Trial Getting Started Guide](./SAP Master Data Governance, cloud edition Trial Getting Started Guide.pdf) and perform all described activities, such as registering for the trial as described in the document. You do not need to read through the complete document. Once you can launch the apps displayed on your user's Fiori Launchpad like displayed below, you are ready to start with the next exercise.
+Please open the [SAP Master Data Governance, cloud edition Trial Getting Started Guide](./SAPMDGceTrialGettingStartedGuide.pdf) and perform all described activities, such as registering for the trial as described in the document. You do not need to read through the complete document. Once you can launch the apps displayed on your user's Fiori Launchpad like displayed below, you are ready to start with the next exercise.
 
 ![MDG Cloud Trial Fiori Launchpad](./images/MDG-Trial-FLP.png)
 
