@@ -19,8 +19,8 @@ This workshop is separated in multiple exercises. You can perform each exercise 
 - [Getting Started](exercises/ex0/)
 - [Exercise 1 - Getting a BTP Trial Account and Subscribing to MDG Cloud](exercises/ex1/)
 - [Exercise 2 - Central Governance](exercises/ex2/)
-- [Exercise 3 - Mass Change](exercises/ex3/)
-- [Exercise 4 - Consolidation](exercises/ex4/)
+- [Exercise 3 - Consolidation](exercises/ex3/)
+- [Exercise 4 - Mass Change](exercises/ex4/)
 - [Exercise 5 - Data Quality Management](exercises/ex5/)
 
 ## How to obtain support
