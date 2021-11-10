@@ -16,6 +16,4 @@ Follow [DAT162-Exercise4.pdf](./DAT162-Exercise4.pdf) to perform this exercise.
 
 ## Summary
 
-You've now ...
-
 Continue to - [Exercise 5 - Data Quality Management](../ex5/README.md)

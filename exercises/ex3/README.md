@@ -18,4 +18,4 @@ Follow [DAT162-Exercise3.pdf](./DAT162-Exercise3.pdf) to perform this exercise.
 
 ## Summary
 
-Continue to - [Exercise 4 - Mass Change](../ex5/README.md)
+Continue to - [Exercise 4 - Mass Change](../ex4/README.md)
