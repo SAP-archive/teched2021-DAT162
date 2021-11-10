@@ -4,6 +4,8 @@ In this exercise, you will learn the basics for working with the consolidation c
 
 ## Exercise Description
 
+The exercise is split in the steps listed below. Please note that there is a detailed [step-by-step description](#step-by-step-description) provided below.
+
 ### Step 1: Import Spreadsheet File
 
 You have some customer data with addresses and phone numbers in a spreadsheet file. You can upload this file into the system using the Import Fiori App.
@@ -13,6 +15,8 @@ You have some customer data with addresses and phone numbers in a spreadsheet fi
 ### Step 2: Run Consolidation Process
 
 After importing the data from a spreadsheet file, you start a consolidation process. After an initial check you make some manual changes, before you run the matching step to identify duplicates. After a match review the best record calculation will merge the data of a match group. The validation and activation step will bring the loaded data into the system. After finalizing the process, you are able to check all actions inside this process using the audit trail functionality.
+
+## Step-by-Step Description
 
 Follow [DAT162-Exercise3.pdf](./DAT162-Exercise3.pdf) to perform this exercise.
 

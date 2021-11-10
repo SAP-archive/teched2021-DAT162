@@ -4,7 +4,7 @@ With this exercise you explore some of the features for master data quality mana
 
 ## Exercise Description
 
-This exercise is split in 3 parts. It is required to perform each step after the other.
+This exercise is split in 3 parts. It is required to perform each step after the other. Please note that there is a detailed [step-by-step description](#step-by-step-description) provided below.
 
 ### Step 1 – Examine validation rules
 
@@ -17,6 +17,8 @@ Navigate to the evaluation results of the rule REGION_REQUIRED. You can either c
 ### Step 3 – Correct the errors found for rule REGION_REQUIRED
 
 Either click on the business partner for which the rule evaluation results in an error, then choose Manage Business Partners – Central Governance to correct the business partner in a single request. Alternatively, you can select the erroneous business partner, plus further erroneous busines partners that you might have created as part of this workshop. Having the business partners selected, you can process all of them in a mass request for fixing the errors.
+
+## Step-by-Step Description
 
 Follow [DAT162-Exercise5.pdf](./DAT162-Exercise5.pdf) to perform this exercise.
 

@@ -8,6 +8,8 @@ This repository contains the material for the SAP TechEd 2021 session called DAT
 
 In this session, you will learn in detail about the features of SAP MDG, cloud edition. You will get a hands-on understanding of capabilities like consolidation, central governance and data quality management for business partner master data. You will see how easy it is to set up and consume this Software-as-a-Service solution on the SAP Business Technology Platform.​
 
+_Note:_ The trial account that you setup in exercise 1 remains valid after the workshop, so that you can continue exploring MDG Cloud.
+
 ## Requirements
 
 It is helpful to have a trial account for SAP Business Technology Platform. But don't worry if you don't - it is part of the first exercise to create such an account.

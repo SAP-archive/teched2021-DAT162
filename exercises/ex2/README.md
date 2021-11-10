@@ -4,6 +4,8 @@ In this exercise, you will learn the basics for working with the central governa
 
 ## Exercise Description
 
+The exercise is split in the steps listed below. Please note that there is a detailed [step-by-step description](#step-by-step-description) provided below.
+
 ### Step 1: Create Business Partner
 
 You create a Business Partner with different data set incl. address, role, bank data, identification and submit your request.
@@ -15,6 +17,8 @@ In the previous step, you create a Business Partner and submitted. Approver will
 ### Step 3: Change Business Partner
 
 You search your business partner which you created in the previous step and change business partner. You will create one additional address and add one industry section.
+
+## Step-by-Step Description
 
 Follow [DAT162-Exercise2.pdf](./DAT162-Exercise2.pdf) to perform this exercise.
 

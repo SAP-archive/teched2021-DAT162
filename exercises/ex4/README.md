@@ -4,6 +4,8 @@ In this exercise, you will learn the basics for working with the mass change cap
 
 ## Exercise Description
 
+The exercise is split in the steps listed below. Please note that there is a detailed [step-by-step description](#step-by-step-description) provided below.
+
 ### Step 1: Create Mass Request
 
 Your task is to define a new search term for all business partners of ABC companies. To apply a mass change of business partner data you must create a request. In this request you can perform the changes and submit this request, which will create a workflow task for the approver.
@@ -11,6 +13,8 @@ Your task is to define a new search term for all business partners of ABC compan
 ### Step 2: Approve Mass Request
 
 In this hands-on session you act as requestor and approver for a mass request. You will get a workflow task to approve a mass request. In the workflow inbox you can check the changed business partners and approve the request. As requestor you will get an email notification and you can directly navigate to the finalized request.
+
+## Step-by-Step Description
 
 Follow [DAT162-Exercise4.pdf](./DAT162-Exercise4.pdf) to perform this exercise.
 
