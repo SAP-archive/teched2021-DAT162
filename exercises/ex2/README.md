@@ -6,8 +6,8 @@ In this exercise, we will create...
 
 After completing these steps you will have created...
 
+Follow [DAT162-Exercise2.pdf](./DAT162-Exercise2.pdf) to perform this exercise.
+
 ## Summary
 
-You've now ...
-
-Continue to - [Exercise 3 - Mass Change](../ex3/README.md)
+Continue to - [Exercise 3 - Consolidaion](../ex3/README.md)
