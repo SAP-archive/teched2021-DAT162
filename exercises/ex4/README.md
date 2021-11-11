@@ -1,6 +1,6 @@
 # Exercise 4 - Mass Change
 
-In this exercise, you will learn the basics for working with the mass change capabilities of SAP Master Data Governance. You will start with the creation of a mass request, which can be used to perform all required changes for selected business partners. After that you submit this request, and an approver will get a workflow task to approve the changes. After approval, the requestor will get an email notification to navigate to the result of this mass request.
+In this exercise, you will learn the basics for working with the mass change capabilities of SAP Master Data Governance, cloud edition. You will start with the creation of a mass request, which can be used to perform all required changes for selected business partners. After that you submit this request, and as an approver will get a workflow task to approve the changes. After approval, the requestor will get an email notification to navigate to the result of this mass request.
 
 ## Exercise Description
 

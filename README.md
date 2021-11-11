@@ -16,7 +16,7 @@ It is helpful to have a trial account for SAP Business Technology Platform. But 
 
 ## Exercises
 
-This workshop is separated in multiple exercises. You can perform each exercise independent of any other exercise. However, exercise 1 is an exception as it contains the basics, such as getting a trial account for SAP BTP and subscribing to the trial version of SAP Master Data Governance, cloud edition.
+This workshop is separated in multiple exercises. Ideally, you perform them all in sequence. You can skip exercise 1 in case you already have a subscription of MDG Cloud Trial. The other exercises could be done independent of each other. However, the data that you create in one exercise also serves as input for the following exercise.
 
 - [Getting Started](exercises/ex0/)
 - [Exercise 1 - Getting a BTP Trial Account and Subscribing to MDG Cloud](exercises/ex1/)

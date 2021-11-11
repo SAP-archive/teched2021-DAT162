@@ -8,7 +8,7 @@ The exercise is split in the steps listed below. Please note that there is a det
 
 ### Step 1: Import Spreadsheet File
 
-You have some customer data with addresses and phone numbers in a spreadsheet file. You can upload this file into the system using the Import Fiori App.
+You have some customer data with addresses and phone numbers in a spreadsheet file. You can upload this file into the system using the app _Manage Imports_.
 
 **Important**: Download the spreadsheet [Marketing_2021.xlsx](./Marketing_2021.xlsx) to use it in this exercise.
 
