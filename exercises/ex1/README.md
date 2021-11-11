@@ -6,7 +6,7 @@ If you already have a trial account on BTP, you can use your existing BTP trial 
 
 Furthermore, if you already have an active trial subscription to SAP Master Data Governance, cloud edition, you can skip this entire exercise and continue with [exercise 2](../ex2/README.md).
 
-**Your trial subscription of MDG Cloud remains valid for 30 days, so that you can continue exploring MDG Cloud after the workshop.** After this period yuo can delete the subscription and create a new subscription to start a new trial period. By deleting a subscription you will loose access to all data created.
+**Your trial subscription of MDG Cloud remains valid for 30 days, so that you can continue exploring MDG Cloud after the workshop.** After this period you can delete the subscription and create a new subscription to start a new trial period. By deleting a subscription you will loose access to all data created.
 
 ## Exercise Description
 
