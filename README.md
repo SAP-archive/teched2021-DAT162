@@ -1,4 +1,4 @@
-# DAT162 - Hands-On Experience on SAP Master Data Governance, cloud edition
+# DAT162 - Hands-On Experience on SAP Master Data Governance, Cloud Edition
 
 ## Description
 
